@@ -38,3 +38,4 @@ MANIFEST
 *.out
 env.sh
 *-env.sh
+venv
